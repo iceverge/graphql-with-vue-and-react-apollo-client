@@ -1,5 +1,5 @@
 const graphql = require('graphql');
-const RootQuery = require('./resolvers/index');
+const RootQuery = require('./queries/index');
 const Mutation = require('./mutations/index');
 
 const {
